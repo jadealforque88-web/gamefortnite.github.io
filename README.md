@@ -5,10 +5,16 @@
 <title>My Favorite Online Game - Fortnite</title>
 <style>
 body {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),
             url("https://th.bing.com/th/id/OIP.kPGYaewh5gt8ODHTy8FQMQHaEK?w=329&h=184&c=7&r=0&o=7&pid=1.7&rm=3");
     background-position: center;
     color: white;
+}
+
+div, ul, table {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 10px;
 }
 
 h1 {
@@ -34,6 +40,10 @@ table {
 th, td {
     padding: 10px;
 }
+
+.center {
+    text-align: center;
+}
 </style>
 </head>
 
@@ -47,7 +57,7 @@ th, td {
 <hr>
 
 <div style="text-align:center;">
-<img src="https://www.internetmatters.org/wp-content/uploads/2024/11/Fortnite-game-image.webp" width="450">
+<img src="https://www.internetmatters.org/wp-content/uploads/2024/11/Fortnite-game-image.webp" width="600">
 </div>
 
 <hr>
@@ -80,8 +90,48 @@ Since then, Fortnite has continued to grow with new seasons, updates, and events
 <p>Players work together to fight monsters and complete missions.</p>
 
 <div style="text-align:center;">
-<img src="https://i.pinimg.com/originals/21/6a/a4/216aa4d8674fc52f22a78473aa628615.gif" width="350">
+<img src="https://i.pinimg.com/originals/21/6a/a4/216aa4d8674fc52f22a78473aa628615.gif" width="450">
 </div>
+
+<hr>
+
+<h2>Building System</h2>
+<p>
+Fortnite allows players to build structures using materials like wood, brick, and metal.
+This helps in defense, movement, and gaining advantage during fights.
+</p>
+<ul>
+<li>Wood – fast but weak</li>
+<li>Brick – balanced</li>
+<li>Metal – strong but slow</li>
+</ul>
+
+<hr>
+
+<h2>Seasons and Battle Pass</h2>
+<p>
+Fortnite is updated in seasons. Each season introduces new skins, map changes,
+and features. Players can buy a Battle Pass to unlock rewards.
+</p>
+
+<hr>
+
+<h2>Cross-Platform Play</h2>
+<p>
+Players on PC, PlayStation, Xbox, Nintendo Switch, and mobile can all play together.
+</p>
+
+<hr>
+
+<h2>Famous Collaborations</h2>
+<ul>
+<li>Marvel</li>
+<li>Star Wars</li>
+<li>Dragon Ball</li>
+<li>Travis Scott Concert</li>
+<li>Naruto</li>
+</ul>
+
 <hr>
 
 <h2>Fortnite Characters</h2>
@@ -119,86 +169,6 @@ Since then, Fortnite has continued to grow with new seasons, updates, and events
 <li>Legendary</li>
 <li>Mythic</li>
 </ol>
-
-<hr>
-
-<h2>Vehicles</h2>
-<ul>
-<li>Cars</li>
-<li>Boats</li>
-<li>Helicopters</li>
-<li>Motorcycles</li>
-<li>Shopping Carts</li>
-</ul>
-
-<div style="text-align:center;">
-<img src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/05/Fortnite-vehicle-mods.jpg" width="400">
-</div>
- 
-
-<hr>
-
-<h2>Map Locations</h2>
-<ul>
-<li>Tilted Towers</li>
-<li>Pleasant Park</li>
-<li>Retail Row</li>
-<li>Lazy Lake</li>
-<li>Salty Springs</li>
-<li>Weeping Woods</li>
-<li>Steamy Stacks</li>
-</ul>
-
-<hr>
-
-<h2>Fortnite Events</h2>
-<ul>
-<li>Live concerts</li>
-<li>Season ending events</li>
-<li>Movie collaborations</li>
-<li>Holiday events</li>
-</ul>
-
-<div style="text-align:center;">
-<img src="https://sm.ign.com/ign_ap/feature/f/fortnite-1/fortnite-15-major-events-you-mightve-missed_duvs.jpg" width="450">
-<img src="https://s.yimg.com/ny/api/res/1.2/mie2s7ffg5S0M9DY8VrjZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_tech_153/76e95f136912ea33a2aa645e71aef190" width="450">
-</div>
-
-<hr>
-
-<h2>Fortnite Tournaments</h2>
-<table border="1">
-<tr>
-<th>Tournament</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td>Fortnite World Cup</td>
-<td>Big international tournament with prizes</td>
-</tr>
-
-<tr>
-<td>Champion Series</td>
-<td>Competitive ranked tournament</td>
-</tr>
-
-<tr>
-<td>Cash Cups</td>
-<td>Online competitions with rewards</td>
-</tr>
-</table>
-
-<hr>
-
-<h2>Famous Players</h2>
-<ul>
-<li>Ninja</li>
-<li>Bugha</li>
-<li>Clix</li>
-<li>Mongraal</li>
-<li>Tfue</li>
-</ul>
 
 <h1>Fortnite: 5 Famous Guns</h1>
 
@@ -243,40 +213,156 @@ Since then, Fortnite has continued to grow with new seasons, updates, and events
 <p>The MK-7 Assault Rifle is known for its fast shooting speed.</p>
 
 </div>
+
 <hr>
 
-<h2>Tips for Playing</h2>
+<h2>Vehicles</h2>
 <ul>
-<li>Always collect materials</li>
-<li>Build quickly during fights</li>
-<li>Stay inside the safe zone</li>
-<li>Practice aiming</li>
-<li>Work with your team</li>
+<li>Cars</li>
+<li>Boats</li>
+<li>Helicopters</li>
+<li>Motorcycles</li>
+<li>Shopping Carts</li>
+</ul>
+
+<div style="text-align:center;">
+<img src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/05/Fortnite-vehicle-mods.jpg" width="500">
+</div>
+
+<hr>
+
+<h2>Map Locations</h2>
+<ul>
+<li>Tilted Towers</li>
+<li>Pleasant Park</li>
+<li>Retail Row</li>
+<li>Lazy Lake</li>
+<li>Salty Springs</li>
+<li>Weeping Woods</li>
+<li>Steamy Stacks</li>
 </ul>
 
 <hr>
 
-<h2>Fun Facts About Fortnite</h2>
+<h2>Fortnite Events</h2>
 <ul>
-<li>Fortnite has millions of players worldwide</li>
-<li>The map changes every season</li>
-<li>There are many skins and outfits</li>
-<li>It has concerts inside the game</li>
+<li>Live concerts</li>
+<li>Season ending events</li>
+<li>Movie collaborations</li>
+<li>Holiday events</li>
+</ul>
+
+<div style="text-align:center;">
+<img src="https://sm.ign.com/ign_ap/feature/f/fortnite-1/fortnite-15-major-events-you-mightve-missed_duvs.jpg" width="450">
+<img src="https://s.yimg.com/ny/api/res/1.2/mie2s7ffg5S0M9DY8VrjZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_tech_153/76e95f136912ea33a2aa645e71aef190" width="450">
+</div>
+
+<hr>
+
+<h2>Fortnite Tournaments</h2>
+<table border="1">
+<tr>
+<th>Tournament</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Fortnite World Cup</td>
+<td>Big international tournament with prizes</td>
+</tr>
+<tr>
+<td>Champion Series</td>
+<td>Competitive ranked tournament</td>
+</tr>
+<tr>
+<td>Cash Cups</td>
+<td>Online competitions with rewards</td>
+</tr>
+</table>
+
+<hr>
+
+<h2>Famous Players</h2>
+<ul>
+<li>Ninja</li>
+<li>Bugha</li>
+<li>Clix</li>
+<li>Mongraal</li>
+<li>Tfue</li>
 </ul>
 
 <hr>
 
-<h2>Frequently Asked Questions</h2>
+<h2>Why Fortnite is Popular</h2>
+<ul>
+<li>Free-to-play</li>
+<li>Frequent updates</li>
+<li>Creative gameplay</li>
+<li>Fun events</li>
+<li>Custom skins</li>
+</ul>
+<hr>
 
-<h3>Is Fortnite free?</h3>
-<p>Yes, Fortnite Battle Royale is free to play.</p>
+<h2>Advanced Strategies</h2>
+<ul>
+<li>Always aim for high ground during battles</li>
+<li>Edit builds quickly to surprise enemies</li>
+<li>Carry both short-range and long-range weapons</li>
+<li>Use headphones to hear enemy footsteps</li>
+<li>Manage your inventory wisely</li>
+</ul>
+<hr>
+<hr>
 
-<h3>Can I play with friends?</h3>
-<p>Yes, you can play with friends online.</p>
+<h2>Items and Healing</h2>
+<ul>
+<li>Med Kit – restores full health</li>
+<li>Bandages – small health recovery</li>
+<li>Shield Potion – adds shield protection</li>
+<li>Mini Shields – small shield boost</li>
+<li>Chug Jug – restores both health and shield</li>
+</ul>
 
-<h3>What platforms support Fortnite?</h3>
-<p>PC, PlayStation, Xbox, Nintendo Switch, and mobile devices.</p>
+<hr>
 
+<h2>Game Mechanics</h2>
+<p>
+Fortnite combines shooting and building mechanics. Players must manage
+resources, aim accurately, and react quickly. The game also includes
+features like sprinting, sliding, and mantling to improve movement.
+</p>
+
+<h2>Famous Icon Characters in Fortnite</h2>
+<p>
+Fortnite is known for adding famous characters from movies, comics,
+and other games. Players can use these skins in matches.
+</p>
+
+<ul>
+<li><b>Spider-Man</b> – A Marvel superhero with web-slinging abilities.</li>
+
+<li><b>Iron Man</b> – A genius hero with a powerful armored suit.</li>
+
+<li><b>Batman</b> – A DC superhero known as the Dark Knight.</li>
+
+<li><b>Superman</b> – A powerful hero with super strength and flight.</li>
+
+<li><b>Goku</b> – A famous anime character from Dragon Ball.</li>
+
+<li><b>Naruto</b> – A ninja from the popular anime series Naruto.</li>
+
+<li><b>Darth Vader</b> – A legendary villain from Star Wars.</li>
+
+<li><b>Kratos</b> – The main character from God of War.</li>
+
+<li><b>Master Chief</b> – The hero from the Halo game series.</li>
+
+<li><b>Lara Croft</b> – The main character from Tomb Raider.</li>
+</ul>  
+
+<div style="text-align:center;">
+<img src=https://cdn2.unrealengine.com/fortnite-mega-city-swing-loading-screen-1920x1080-610f145c71c2.jpg width="450">
+<img src=https://static0.srcdn.com/wordpress/wp-content/uploads/2021/07/Fortnite-Armored-Batman.jpg?w=1200&h=675&fit=crop width="450">
+</div>
 <hr>
 
 <div style="text-align:center;">
@@ -288,6 +374,8 @@ the best online games today.
 </p>
 
 <h3>THANK YOU FOR VISITING!</h3>
+<div style="text-align:center;">
+<img src=https://media.tenor.com/U-G2j_J2xnAAAAAM/peely-fortnite.gif" width="120">
 </div>
 
 </body>
